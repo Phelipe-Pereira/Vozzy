@@ -128,9 +128,9 @@ vozzy/
 ## 👥 Contribuição
 
 1. Faça o fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
+2. Crie uma branch para sua feature (`git checkout -b feature/.....`)
+3. Commit suas mudanças (`git commit -m 'Add some .....'`)
+4. Push para a branch (`git push origin feature/.....`)
 5. Abra um Pull Request
 
 ## 📝 Licença
