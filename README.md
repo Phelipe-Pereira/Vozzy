@@ -143,9 +143,6 @@ Principais pontos da licença:
 - Liberdade para compartilhar o software com seus amigos e vizinhos
 - Liberdade para compartilhar as modificações que você fizer
 
-## 🤝 Suporte
-
-Para suporte, envie um email para seu-email@exemplo.com ou abra uma issue no repositório.
 
 ## ✨ Interface
 
